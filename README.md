@@ -1,34 +1,14 @@
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
 [![Discord][discord-shield]][discord-url]
 [![Twitter][twitter-shield]][twitter-url]
+[![YouTube][youtube-shield]][youtube-url]
+[![GitHub][github-shield]][github-url]
 
-<!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="src/assets/images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">Nic's</h3>
-
+  <img src="src/assets/images/logo.png" alt="Logo" width="140" height="140">
+  
   <p align="center">
-    Programador em JavaScript!
+    Olá, meu nome é Nícolas, sou um programador em JavaScript, oque mais gosto de programar é bots para o Discord!
     <br />
     <a href="https://github.com/yNicol4s?tab=repositories"><strong>Explorar repositórios »</strong></a>
     <br />
@@ -167,7 +147,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Your Name - [@yNicol4s](https://twitter.com/yNicol4s) - email@example.com
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
@@ -193,7 +173,11 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[discord-shield]: https://img.shields.io/badge/-discord-black.svg?style=for-the-badge&logo=discord&colorB=555&logoColor=white
-[discord-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[twitter-shield]: https://img.shields.io/badge/-twitter-black.svg?style=for-the-badge&logo=twitter&colorB=555&logoColor=white
-[twitter-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
+[discord-shield]: https://img.shields.io/discord/828445694041915433?color=738ADB&label=DISCORD&logo=discord&style=for-the-badge&colorB=555&logoColor=white
+[discord-url]: https://discord.gg/QyTGEkGjBx
+[twitter-shield]: https://img.shields.io/twitter/follow/yNicol4s?color=1DA1F2&label=TWITTER&logo=twitter&style=for-the-badge&colorB=555&logoColor=white
+[twitter-url]: https://twitter.com/yNicol4s
+[youtube-shield]: https://img.shields.io/youtube/channel/subscribers/UC-SUSKebrsMCbuMJc0RdLMQ?color=FF0000&label=YOUTUBE&logo=youtube&logoColor=white&style=for-the-badge&colorB=555&logoColor=white
+[youtube-url]: https://www.youtube.com/channel/UC-SUSKebrsMCbuMJc0RdLMQ
+[github-shield]: https://img.shields.io/github/followers/ynicol4s?color=211F1F&label=GITHUB&logo=github&logoColor=white&style=for-the-badge&colorB=555&logoColor=white
+[github-url]: https://github.com/yNicol4s

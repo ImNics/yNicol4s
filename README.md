@@ -2,6 +2,7 @@
 [![Twitter][twitter-shield]][twitter-url]
 [![YouTube][youtube-shield]][youtube-url]
 [![GitHub][github-shield]][github-url]
+[![Twitch][twitch-shield]][twitch-url]
 
 <br />
 <p align="center">
@@ -17,7 +18,9 @@
 [discord-url]: https://discord.gg/QyTGEkGjBx
 [twitter-shield]: https://img.shields.io/twitter/follow/yNicol4s?color=1DA1F2&label=TWITTER&logo=twitter&style=for-the-badge&colorB=555&logoColor=white
 [twitter-url]: https://twitter.com/yNicol4s
-[youtube-shield]: https://img.shields.io/youtube/channel/subscribers/UC-SUSKebrsMCbuMJc0RdLMQ?color=FF0000&label=YOUTUBE&logo=youtube&logoColor=white&style=for-the-badge&colorB=555&logoColor=white
+[youtube-shield]: https://img.shields.io/youtube/channel/subscribers/UC-SUSKebrsMCbuMJc0RdLMQ?color=FF0000&label=YOUTUBE&logo=youtube&logoColor=white&style=for-the-badge&colorB=555
 [youtube-url]: https://www.youtube.com/channel/UC-SUSKebrsMCbuMJc0RdLMQ
-[github-shield]: https://img.shields.io/github/followers/ynicol4s?color=211F1F&label=GITHUB&logo=github&logoColor=white&style=for-the-badge&colorB=555&logoColor=white
+[github-shield]: https://img.shields.io/github/followers/ynicol4s?color=211F1F&label=GITHUB&logo=github&logoColor=white&style=for-the-badge&colorB=555
 [github-url]: https://github.com/yNicol4s
+[twitch-shield]: https://img.shields.io/twitch/status/ynicol4s?color=9147FE&label=TWITCH&logo=twitch&logoColor=white&style=for-the-badge&colorB=555
+[twitch-url]: https://www.twitch.tv/ynicol4s

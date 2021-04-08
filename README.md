@@ -14,7 +14,7 @@
   </p>
 </p>
 
-[discord-shield]: https://img.shields.io/discord/828445694041915433?color=738ADB&label=DISCORD&logo=discord&style=for-the-badge&colorB=555&logoColor=white
+[discord-shield]: https://img.shields.io/discord/825415559604338738?color=738ADB&label=DISCORD&logo=discord&style=for-the-badge&colorB=555&logoColor=white
 [discord-url]: https://discord.gg/QyTGEkGjBx
 [twitter-shield]: https://img.shields.io/twitter/follow/yNicol4s?color=1DA1F2&label=TWITTER&logo=twitter&style=for-the-badge&colorB=555&logoColor=white
 [twitter-url]: https://twitter.com/yNicol4s
